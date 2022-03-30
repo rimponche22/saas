@@ -211,6 +211,7 @@ h2{
 
 /*contactos*/
 .grid{
+    
     display: grid;
     grid-template-columns: 4fr 4fr;
     grid-template-rows: 4fr 4fr;
@@ -222,7 +223,7 @@ h2{
    
     
 }
-.complete{
+.complete{ 
     font-size: xx-large;
     background-color: rgba(240, 248, 255, 0.26);
     border: double red;
@@ -240,13 +241,15 @@ h2{
    
     
 }
-.consultas{
+.consultas{ 
+    grid-area: auto;
     color: red;
     display: flex;
     justify-content: center;
 }
 .contactos{
-    grid-area: 2,2,2;
+
+   
 display: flex;
 justify-content: center;
 background-color: rgb(0, 0, 0);filter:alpha(opacity=60); opacity: 0.8;;
