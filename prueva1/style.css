@@ -1,0 +1,291 @@
+/*COMENTARIO */
+*{list-style:none;
+padding: 0 ;
+margin: 0;}
+
+
+
+a{
+    color: rgb(223, 15, 15);
+}
+p{
+    color:red;
+    font-size: x-large;
+    
+    
+}
+
+body{
+   
+    background-image: url(fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    
+}
+
+
+/*header*/
+.logo{ width: 30%;
+    display: flex;
+    padding: 0%;
+    margin-left: 35% ;
+    display: inline;
+    
+    border: double blanchedalmond 10px;
+    background-size: cover;
+    background-color: black; opacity: 10;
+   
+
+   
+    
+    
+    
+    
+    
+
+    
+
+}
+.inicio {
+    
+    font-family: monospace;
+    background-color: rgb(12, 11, 11);filter:alpha(opacity=60); opacity: 0.7;;
+    font-size:xx-large;
+    display: flex;
+    justify-content: space-around ;
+    margin: auto;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    border: double red 10px; 
+    
+    
+   
+    
+    
+    
+    
+
+    
+}
+
+
+
+/*INDEX*/
+
+
+.video{
+    display: flex;
+    justify-content: center;
+    
+    margin: auto;
+    border-width: 10px;
+    border-color: rgb(209, 214, 218);
+    
+}
+
+
+
+
+
+.acceso22{
+    position: relative;
+    font-family: monospace;
+    font-size: x-large;
+    color: aliceblue;
+    border: black solid 10px;
+     background-color:rgb(9, 12, 9); filter:alpha(opacity=60); opacity: 0.7;;
+}
+
+
+
+
+
+
+
+.estudio{
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    display: inline;
+    border: double rgb(3, 3, 3) 50px;
+    background-size: cover;
+    background-color: black;
+    Object-fit: cover 
+   
+    
+   
+    
+ 
+
+}
+
+
+.footer{
+    color: rgb(162, 35, 221);
+    font-family: monospace;
+    background-color: rgb(12, 11, 11);filter:alpha(opacity=60); opacity: 0.7;;
+    font-size:xx-large;
+    display: flex;
+    justify-content: space-around ;
+    margin: auto;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    border: double red 10px; 
+    
+    
+    
+}
+
+
+.pie{
+    font-size: x-large;
+    font-style: bold;
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+    
+}
+
+/*lanzamientos*/
+
+ .navi{
+     display: flex;
+     
+     
+ }
+ .desc
+{
+    font-family: comic;
+    font-style: bold;
+    color: aliceblue;
+    font-size: xx-large;
+    background-color: rgb(7, 7, 7);filter: alpha(opacity=60);opacity: 0.7;
+    border:solid black 10px;
+}
+.dib{
+    border: solid;
+}
+h2{
+    font-size: xx-large;
+    color: red;
+    background-color: rgba(0, 0, 0, 0.733);
+}
+
+
+
+.portada1{
+    width: 350px;
+    
+    border: solid black 10px;
+    
+    
+    
+  
+
+}
+.portada2{
+    width: 350px;
+    
+    border: solid black 10px;
+    
+    
+    
+    
+}
+.lanzamientos{
+
+    font-style: bold;
+    font-family:  monospace;
+    font-size: xx-large;
+    color: rgb(250, 4, 4);
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);filter:alpha(opacity=60); opacity: 0.8;;
+    border: double;
+
+   
+
+}
+
+
+/*contactos*/
+.grid{
+    display: grid;
+    grid-template-columns: 4fr 4fr;
+    grid-template-rows: 4fr 4fr;
+    background-color: rgba(11, 31, 49, 0.534);
+    border:solid;
+    column-gap: 30px;
+    align-items: center;
+   
+   
+    
+}
+.complete{
+    font-size: xx-large;
+    background-color: rgba(240, 248, 255, 0.26);
+    border: double red;
+}
+.divh3{
+    color: red;
+    display: flex;
+    margin-left: 70px;
+    flex-direction: column;
+    font-size:60px;
+    background-color: rgba(0, 0, 0, 0.486);
+    background-size: contain;
+    
+    
+   
+    
+}
+.consultas{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+.contactos{
+display: flex;
+justify-content: center;
+background-color: rgb(0, 0, 0);filter:alpha(opacity=60); opacity: 0.8;;
+color: rgb(247, 11, 11);
+
+
+}
+
+
+/*quienesosmos*/
+ .estu{ width: 500px;
+
+
+ }
+ .quienessomos{
+     display: flex;
+     justify-content: space-between;
+     background-color: black;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
