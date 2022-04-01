@@ -246,7 +246,7 @@ h2{
     
 }
 .consultas{ 
-    grid-area: auto;
+    
     color: red;
     display: flex;
     justify-content: center;
